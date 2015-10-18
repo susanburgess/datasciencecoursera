@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository fo project assignment
+Repository for project assignment
